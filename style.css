@@ -167,7 +167,7 @@ p {
   }
 
   .social {
-    position: relative;
+    position: fixed;
     width: 300px;
     padding: 1em;
     border-radius: 10px;
