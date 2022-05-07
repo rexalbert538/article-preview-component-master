@@ -158,9 +158,16 @@ p {
     overflow: visible;
   }
 
+  /* .hero {
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+  } */
+
   .hero .hero__img {
     height: 100%;
     width: 380px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
   }
 
   .main__body {
